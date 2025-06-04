@@ -1,3 +1,3 @@
 # INTRODUCTION
 
-Tring to merge the PR   
+Trying to merge the PR   
